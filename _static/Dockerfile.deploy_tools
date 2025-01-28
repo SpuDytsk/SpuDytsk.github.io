@@ -1,0 +1,6 @@
+FROM alpine:3.18.3
+
+RUN apk add \
+    openssh-client-default \
+    make \
+    && mkdir ~/.ssh
