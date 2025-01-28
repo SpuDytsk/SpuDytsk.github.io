@@ -1,8 +1,0 @@
-Jinja2==3.1
-PyYAML==6.0.1
-Sphinx==4.5.0
-sphinxcontrib-contentui @ git+https://github.com/Proshutyan/sphinxcontrib-contentui.git@fd5d93db290fdf6d8d9ee0c22f9d9817380c1668
-sphinxcontrib.images==0.9.4
-sphinx-copybutton==0.5.2
-linuxdoc==20230629
-
